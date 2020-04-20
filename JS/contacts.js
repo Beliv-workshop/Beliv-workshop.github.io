@@ -29,17 +29,17 @@ let organizerData = [
         name: 'Miriah Meyer', 
         weblink: 'https://www.cs.utah.edu/~miriah/', 
         affil: 'University of Utah',
-        blurb:`is an associate professor in the School of
-        Computing at the University of Utah and a faculty member in
-        the Scientific Computing and Imaging Institute. Her research
-        focuses on the design of visualization systems for helping
-        researchers make sense of complex data.`
+        blurb:`is an associate professor in the School of Computing at the University of Utah and a faculty member in the 
+        Scientific Computing and Imaging Institute. Her research focuses on the design of visualization systems for helping researchers 
+        make sense of complex data, and on the development of methods for helping visualization designers make sense of the world.`
     },
     {
         name: 'Kyle Hall', 
-        weblink: 'https://innovis.cpsc.ucalgary.ca/People/KyleHall', 
-        affil: 'University of Calgary',
-        blurb:'test'
+        weblink: 'https://kylewmhall.com', 
+        affil: 'Temple University',
+        blurb:`Kyle Hall is a post-doctoral fellow at Temple University.  He holds an interdisciplinary PhD from the University of Calgary.  
+        His research interests include transdisciplinary visualization design, design methodology, and techniques bridging information visualization 
+        and scientific visualization.`
     },
     {
         name: 'Matthew Kay', 
@@ -94,7 +94,6 @@ if($("#publicity-bio").length > 0){
     console.log('this is a test')
     makeBio(publicityData, $("#publicity-bio"))
 }
-
 
 
 function makeContact(data, div){

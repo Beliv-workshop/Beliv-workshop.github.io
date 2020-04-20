@@ -32,12 +32,17 @@ a:hover{
 }
 
 .navbar-default {
-	background-color: #fdb20d;
-	border-color: #fdb20d;	
-	color: #fdb20d;
+	background-color: #bdc9d1;
+	border-color: #bdc9d1;	
+	/* color: #bdc9d1; */
+	width:100%;
+	height:60px;
+	position: sticky;
+	top:0px;
+	z-index: 1000;
 }
 .navbar-default .navbar-brand{
-	color:#fdb20d;
+	color:#bdc9d1;
 }
 
 .navbar-brand{
@@ -118,19 +123,14 @@ a.active:hover{
 	float:left;
 	margin-left:40px;
 	margin-top:0px;
-	
-	
-		
 }
 
 .header-text h1{
 	font-size:55px;
-	
 	font-weight: 400;
 }
 .header-text h3{
 	font-size: 38px;
-	
 	font-weight: 400;
 
 }
@@ -142,8 +142,9 @@ a.active:hover{
 .bs-header .container{
 	}
 	
-	#footer{
-	border-top:4px #fdb20d solid;
+#footer{
+	/* border-top:2px #bdc9d1 solid; */
+	background-color: #bdc9d1;
 	padding-top:10px;
 	padding-bottom:10px;
 		
@@ -193,13 +194,13 @@ a.active:hover{
   }
  
 .bs-header{
-	background-color:#fdb20d;	
+	background-color:#bdc9d1;	
 }
 #page_header {
-	background-color:#fdb20d;	
+	background-color:#bdc9d1;	
 }
 .navbar-default {
-	background-color:#fdb20d;	
+	background-color:#bdc9d1;	
 }
 #footer a.link {
 	float: none;
@@ -426,8 +427,8 @@ a.active:hover{
  
 
 /*#side-sponsor{
-	  height:80px;*/
-  }
+	  height:80px;
+ }*/
 .main h1{
 	font-weight:400;
 	margin-bottom:0px;	
@@ -461,5 +462,5 @@ a.active:hover{
 }
 
 .banner {
-	background-color: #fdb20d;
+	background-color: #bdc9d1;
 }
