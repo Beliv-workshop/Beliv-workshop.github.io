@@ -9,7 +9,9 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
-	font-family:'Helvetica Neue', sans-serif; font-weight: 400;	
+	/* font-family:'Helvetica Neue', sans-serif; font-weight: 400;	 */
+	font-family: 'Poppins', sans-serif;
+	color: #4f4f4f;
 }
 
 h1, .h1 {
@@ -19,7 +21,6 @@ h1, .h1 {
 h2, .h2 {
     font-size: 20px;
 }
-
 
 a:hover{
 	text-decoration: none;
@@ -153,7 +154,7 @@ a.active:hover{
 	float:left;	
 	font-size:20px;
 	padding-right:30px;
-	color:black;
+	/* color:#ffffff; */
 }
 #footer a.link:hover {
 	text-decoration: underline;
