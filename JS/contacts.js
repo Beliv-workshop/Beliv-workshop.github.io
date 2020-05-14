@@ -66,7 +66,7 @@ let publicityData = [
 let socialMedia = [
     {
         name: 'Twitter',
-        webLink: 'https://twitter.com/belivworkshop',
+        weblink: 'https://twitter.com/belivworkshop',
         class: 'fab fa-twitter fa-3x'
     }
 ]
@@ -96,16 +96,16 @@ if($("#publicity-bio").length > 0){
     makeBio(publicityData, $("#publicity-bio"))
 }
 
-let socialDiv = wrapper.append('<div class="social"></div>');
+wrapper.append('<div class="social"></div>');
 
 
 
-makeSocial(socialMedia, socialDiv);
+makeSocial(socialMedia, $(".social"));
 
 function makeSocial(data, div){
-    console.log(div)
+    console.log(div[0], data)
     for(let i in data){
-        div.append(`<a href='${data[i].weblink}'><i class="${data[i].class}"></i> Connect on Twitter</a><br>`);
+        div.append(`<a href=${data[i].weblink}><i class="${data[i].class}"></i> Connect on Twitter</a><br>`);
     }
 }
 
