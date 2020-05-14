@@ -68,6 +68,11 @@ let socialMedia = [
         name: 'Twitter',
         weblink: 'https://twitter.com/belivworkshop',
         class: 'fab fa-twitter fa-3x'
+    },
+    {
+        name: 'Email',
+        weblink: 'mailto:beliv.workshop@gmail.com',
+        class: 'fas fa-envelope fa-3x'
     }
 ]
 
@@ -105,7 +110,7 @@ makeSocial(socialMedia, $(".social"));
 function makeSocial(data, div){
     console.log(div[0], data)
     for(let i in data){
-        div.append(`<a href=${data[i].weblink}><i class="${data[i].class}"></i> Connect on Twitter</a><br>`);
+        div.append(`<a href=${data[i].weblink} target="_blank"><i class="${data[i].class}"></i></a>`);
     }
 }
 
