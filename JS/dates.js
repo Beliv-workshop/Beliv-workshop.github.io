@@ -1,10 +1,10 @@
 
 let dateData = [
-    {event: 'Paper submission due', date: 'July, 10, 2020' },
-    {event: 'First notification', date: 'Aug 10, 2020' },
-    {event: 'Revisions due', date: 'Aug 24, 2020' },
-    {event: 'Final notification', date: 'Aug 31, 2020' },
-    {event: 'Camera-ready', date: 'Sept 5, 2020' },
+    {event: 'Deadline for submissions', date: 'July, 10, 2020' },
+    {event: 'Notification of acceptance', date: 'Aug 10, 2020' },
+    {event: 'Deadline for revision', date: 'Aug 24, 2020' },
+    {event: 'Final notification', date: 'Aug 29, 2020' },
+    {event: 'Camera-ready due', date: 'Sept 3, 2020' },
    // {event: 'BELIV workshop', date: 'Oct 21, 2018' },
 
 ]
