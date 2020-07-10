@@ -1,6 +1,6 @@
 
 let dateData = [
-    {event: 'Deadline for submissions', date: 'July, 10, 2020' },
+    {event: 'Deadline for submissions', date: 'July, 10, 2020 at 11:59 pm AoE' },
     {event: 'Notification of acceptance', date: 'Aug 10, 2020' },
     {event: 'Deadline for revision', date: 'Aug 24, 2020' },
     {event: 'Final notification', date: 'Aug 29, 2020' },
