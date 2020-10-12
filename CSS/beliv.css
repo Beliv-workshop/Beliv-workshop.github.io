@@ -38,6 +38,14 @@ i{
 	margin:auto;	
 }
 
+.blurb{
+	font-size: 12px;
+}
+
+.break{
+	text-align:center;
+}
+
 .navbar-default {
 	background-color: #bdc9d1;
 	border-color: #bdc9d1;	
@@ -425,10 +433,6 @@ a.active:hover{
 	}
 	
 }
-
-
-
-
 
 .title{
 	display: block;
