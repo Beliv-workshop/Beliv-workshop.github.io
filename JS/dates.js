@@ -1,6 +1,6 @@
 let dateData = [{
     event: 'Deadline for submissions',
-    date: 'June, 30, 2022 at 11:59 pm AoE'
+    date: 'June 30, 2022 at 11:59 pm AoE'
   },
   {
     event: 'Notification of acceptance',
