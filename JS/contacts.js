@@ -4,6 +4,8 @@
 This is the contact information that is added into the sidebar div. Change these to update the contact in the sidebar.
 */
 
+/*foo*/
+
 let organizerData = [{
     name: 'Anastasia Bezerianos',
     weblink: 'https://www.lri.fr/~anab/',
