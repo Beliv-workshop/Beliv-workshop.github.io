@@ -12,6 +12,12 @@ let organizerData = [{
         Her interests lie in novel interaction and visualization design and evaluation, especially on large high resolution displays.`
   },
   {
+    name: 'Michael Correll',
+    weblink: 'https://correll.io/',
+    affil: 'Tableau Research',
+    blurb: `is a researcher at Tableau Research. His research interests include the ethical, accurate, and responsible communication of data, as well as graphical perception, statistical graphics, and uncertainty visualization.`
+  },
+  {
     name: 'Kyle Hall',
     weblink: 'https://kylewmhall.com',
     affil: 'TD Bank',
