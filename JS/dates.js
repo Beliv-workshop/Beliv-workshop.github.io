@@ -1,22 +1,30 @@
 let dateData = [{
-    event: 'Deadline for submissions',
+    event: '<b>Deadline for submissions</b>',
     date: 'June 30, 2022 at 11:59 pm AoE'
   },
   {
-    event: 'Notification of acceptance',
-    date: 'Aug 1, 2022'
+    event: '<b>Papers Reviews Assigned</b>',
+    date: 'July 6, 2022'
   },
   {
-    event: 'Deadline for revision',
+    event: '<b>Reviews Due</b>',
+    date: 'July 27, 2022'
+  },
+  {
+    event: '<b>Notification of acceptance</b>',
+    date: 'August 1, 2022'
+  },
+  {
+    event: '<b>Deadline for revision</b>',
     date: 'Sept 1, 2022'
   },
   {
-    event: 'Final notification',
+    event: '<b>Final notification</b>',
     date: 'Sept 7, 2022'
   },
   {
-    event: 'Camera-ready due',
-    date: 'Sept 15, 2022'
+    event: '<b>Camera-ready due</b>',
+    date: 'Sept 13, 2022'
   },
   // {event: 'BELIV workshop', date: 'Oct 21, 2018' },
 
@@ -34,6 +42,6 @@ makeEvent(dateData, dateWrapper);
 
 function makeEvent(data, div) {
   for (let i in data) {
-    div.append(`${data[i].date}</a>: ${data[i].event}<br>`);
+    div.append(`${data[i].event}</a>: ${data[i].date}<br>`);
   }
 }
