@@ -1,10 +1,10 @@
 let dateData = [{
     event: '<b>Deadline for submissions</b>',
-    date: 'June 30, 2022 at 11:59 pm AoE'
+    date: 'July 6, 2022 at 11:59 pm AoE'
   },
   {
     event: '<b>Papers Reviews Assigned</b>',
-    date: 'July 6, 2022'
+    date: 'July 8, 2022'
   },
   {
     event: '<b>Reviews Due</b>',
