@@ -16,15 +16,15 @@ let dateData = [{
   },
   {
     event: '<b>Deadline for revision</b>',
-    date: 'Sept 1, 2022'
+    date: 'August 24, 2022'
   },
   {
     event: '<b>Final notification</b>',
-    date: 'Sept 7, 2022'
+    date: 'August 26, 2022'
   },
   {
     event: '<b>Camera-ready due</b>',
-    date: 'Sept 13, 2022'
+    date: 'August 29, 2022'
   },
   // {event: 'BELIV workshop', date: 'Oct 21, 2018' },
 
