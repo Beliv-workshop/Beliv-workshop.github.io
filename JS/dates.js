@@ -24,7 +24,7 @@ let dateData = [{
   },
   {
     event: '<b>Camera-ready due</b>',
-    date: 'August 29, 2022'
+    date: 'August 31, 2022 (5pm PST)'
   },
   // {event: 'BELIV workshop', date: 'Oct 21, 2018' },
 
