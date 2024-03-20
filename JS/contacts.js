@@ -16,8 +16,8 @@ let organizerData = [{
   {
     name: 'Michael Correll',
     weblink: 'https://correll.io/',
-    affil: 'Tableau Research',
-    blurb: `is a researcher at Tableau Research. His research interests include the ethical, accurate, and responsible communication of data, as well as graphical perception, statistical graphics, and uncertainty visualization.`
+    affil: 'Northeastern University',
+    blurb: `is a researcher professor at Northeastern University. His research interests include the ethical, accurate, and responsible communication of data, as well as graphical perception, statistical graphics, and uncertainty visualization.`
   },
   {
     name: 'Kyle Hall',
@@ -26,28 +26,28 @@ let organizerData = [{
     blurb: `is a researcher at TD Bank.  He holds an interdisciplinary PhD from the University of Calgary.
         His research interests include transdisciplinary visualization design, design methodology, and techniques bridging information visualization
         and scientific visualization.`
-  },
-  {
-    name: 'Samuel Huron',
-    weblink: 'https://perso.telecom-paristech.fr/shuron/#!index.md',
-    affil: 'Telecom Paris Tech',
-    blurb: `is an associate professor in Design and ICT at Telecom Paris Tech in France. He holds a PhD in computer science from the
-        University Paris Saclay in collaboration with INRIA. His research is mostly focus on the design process of visual representation of data,
-        design methods apply to research and computer human interaction.`
-  },
-  {
-    name: 'Matthew Kay',
-    weblink: 'https://www.si.umich.edu/people/matthew-kay',
-    affil: 'University of Michigan',
-    blurb: ` is an Assistant Professor of Information at UMSI. His research includes work on communicating uncertainty, usable statistics,
-        and personal informatics. `
-  },
-  {
-    name: 'Miriah Meyer',
-    weblink: 'https://miriah.github.io/',
-    affil: 'Linköping University',
-    blurb: `is a professor in the Department of Science & Technology at Linköping University. Her research focuses on the design of visualization systems for helping researchers make sense of complex data, and on the development of methods for helping visualization designers make sense of the world.`
   }
+  // {
+  //   name: 'Samuel Huron',
+  //   weblink: 'https://perso.telecom-paristech.fr/shuron/#!index.md',
+  //   affil: 'Telecom Paris Tech',
+  //   blurb: `is an associate professor in Design and ICT at Telecom Paris Tech in France. He holds a PhD in computer science from the
+  //       University Paris Saclay in collaboration with INRIA. His research is mostly focus on the design process of visual representation of data,
+  //       design methods apply to research and computer human interaction.`
+  // },
+  // {
+  //   name: 'Matthew Kay',
+  //   weblink: 'https://www.si.umich.edu/people/matthew-kay',
+  //   affil: 'University of Michigan',
+  //   blurb: ` is an Assistant Professor of Information at UMSI. His research includes work on communicating uncertainty, usable statistics,
+  //       and personal informatics. `
+  // },
+  // {
+  //   name: 'Miriah Meyer',
+  //   weblink: 'https://miriah.github.io/',
+  //   affil: 'Linköping University',
+  //   blurb: `is a professor in the Department of Science & Technology at Linköping University. Her research focuses on the design of visualization systems for helping researchers make sense of complex data, and on the development of methods for helping visualization designers make sense of the world.`
+  // }
 ];
 
 let publicityData = [{
