@@ -16,11 +16,11 @@ let dateData = [{
   },
   {
     event: '<b>Deadline for revision</b>',
-    date: 'August 1, 2024 (AoE)'
+    date: 'August 15, 2024 (AoE)'
   },
   {
     event: '<b>Final notification</b>',
-    date: 'August 15, 2024 (AoE)'
+    date: 'September 1, 2024 (AoE)'
   }
   // {
   //   event: '<b>Camera-ready due</b>',
