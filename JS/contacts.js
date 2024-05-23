@@ -26,28 +26,30 @@ let organizerData = [{
     blurb: `is a researcher at TD Bank.  He holds an interdisciplinary PhD from the University of Calgary.
         His research interests include transdisciplinary visualization design, design methodology, and techniques bridging information visualization
         and scientific visualization.`
-  }
-  // {
-  //   name: 'Samuel Huron',
-  //   weblink: 'https://perso.telecom-paristech.fr/shuron/#!index.md',
-  //   affil: 'Telecom Paris Tech',
-  //   blurb: `is an associate professor in Design and ICT at Telecom Paris Tech in France. He holds a PhD in computer science from the
-  //       University Paris Saclay in collaboration with INRIA. His research is mostly focus on the design process of visual representation of data,
-  //       design methods apply to research and computer human interaction.`
-  // },
-  // {
-  //   name: 'Matthew Kay',
-  //   weblink: 'https://www.si.umich.edu/people/matthew-kay',
-  //   affil: 'University of Michigan',
-  //   blurb: ` is an Assistant Professor of Information at UMSI. His research includes work on communicating uncertainty, usable statistics,
-  //       and personal informatics. `
-  // },
-  // {
-  //   name: 'Miriah Meyer',
-  //   weblink: 'https://miriah.github.io/',
-  //   affil: 'Linköping University',
-  //   blurb: `is a professor in the Department of Science & Technology at Linköping University. Her research focuses on the design of visualization systems for helping researchers make sense of complex data, and on the development of methods for helping visualization designers make sense of the world.`
-  // }
+  },
+  {
+    name: 'Jürgen Bernard',
+    weblink: 'https://juergen-bernard.info',
+    affil: 'University of Zurich',
+    blurb: `is an assistant professor at the University of Zurich and head of the Interactive Visual Data Analysis. His research focus is on visual analytics, human-centered machine learning, and artificial intelligence.`
+  },
+  {
+    name: 'Dan Keefe',
+    weblink: 'https://www.danielkeefe.net/',
+    affil: 'University of Minnesota',
+    blurb: `is a Distinguished University Teaching Professor and Professor in the Department of Computer Science & Engineering at the University of Minnesota.  He is also an artist.  Dan's research centers on spatial human-data interaction in mixed reality environments, art+science collaborations, and, recently, community partnerships and digital design for revitalizing Indigenous culture and knowledge systems.`
+  },
+  {
+    name: 'Mai Elshehaly', 
+    weblink: 'https://invisai.com/mai/',
+    affil: 'University of London',
+    blurb: `is a Lecturer in Visualisation at City, University of London. She holds a Ph.D. and M.Sc. in Computer Science from the Center for Human-Computer Interaction at Virginia Tech. Before her current appointment, she worked at the Universities of Leeds and Bradford and was a NSF-funded postdoctoral researcher at the University of Maryland, Baltimore County.`
+  },
+  {name: 'Mahsan Nourani',
+  weblink: 'https://mahsan.page',
+  affil: 'Northeastern University',
+  blurb: `is an assistant research professor at Northeastern University. Her research focuses on human-centered AI/XAI, AI ethics, visual analytics, and human-AI collaborative decision-making. She holds a PhD in computer science from University of Florida.`
+}
 ];
 
 let publicityData = [{
