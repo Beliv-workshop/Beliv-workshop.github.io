@@ -42,7 +42,7 @@ let organizerData = [{
   {
     name: 'Mai Elshehaly', 
     weblink: 'https://invisai.com/mai/',
-    affil: 'University of London',
+    affil: 'City, University of London',
     blurb: `is a Lecturer in Visualisation at City, University of London. She holds a Ph.D. and M.Sc. in Computer Science from the Center for Human-Computer Interaction at Virginia Tech. Before her current appointment, she worked at the Universities of Leeds and Bradford and was a NSF-funded postdoctoral researcher at the University of Maryland, Baltimore County.`
   },
   {name: 'Mahsan Nourani',
