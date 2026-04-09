@@ -57,7 +57,7 @@ let publicityData = [
   {
     name: "Arran Zeyu Wang",
     weblink: "https://arranzeyuwang.github.io/",
-    affil: "UNC Chapel Hill",
+    affil: "University of North Carolina at Chapel Hill",
     blurb: `is a PhD student at the University of North Carolina at Chapel Hill. His main research focus is exploring how people understand data from visualizations to build accessible, intelligent, and empirically grounded tools for easier exploratory data analysis and decision-making.`,
   },
 ];
