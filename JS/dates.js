@@ -1,34 +1,34 @@
-let dateData = [{
-  event: '<b>Deadline for submissions</b>',
-  date: 'July 8, 2024 (AoE)'
-},
-// {
-//   event: '<b>Papers Reviews Assigned</b>',
-//   date: 'July 8, 2022'
-// },
-// {
-//   event: '<b>Reviews Due</b>',
-//   date: 'July 27, 2022'
-// },
-{
-  event: '<b>Notification of acceptance</b>',
-  date: 'August 1, 2024 (AoE)'
-},
-{
-  event: '<b>Deadline for revision</b>',
-  date: 'August 15, 2024 (AoE)'
-},
-{
-  event: '<b>Final notification</b>',
-  date: 'September 1, 2024 (AoE)'
-}
+let dateData = [
+  {
+    event: "<b>Deadline for submissions</b>",
+    date: "June 29, 2026 (AoE)",
+  },
+  // {
+  //   event: '<b>Papers Reviews Assigned</b>',
+  //   date: 'July 8, 2022'
+  // },
+  // {
+  //   event: '<b>Reviews Due</b>',
+  //   date: 'July 27, 2022'
+  // },
+  {
+    event: "<b>Notification of acceptance</b>",
+    date: "July 31, 2026 (AoE)",
+  },
+  {
+    event: "<b>Deadline for revision</b>",
+    date: "August 14, 2026 (AoE)",
+  },
+  {
+    event: "<b>Final notification</b>",
+    date: "August 18, 2026 (AoE)",
+  },
   // {
   //   event: '<b>Camera-ready due</b>',
   //   date: 'August 31, 2022 (5pm PST)'
   // },
   // {event: 'BELIV workshop', date: 'Oct 21, 2018' },
-
-]
+];
 
 
 /*

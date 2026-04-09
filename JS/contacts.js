@@ -6,58 +6,61 @@ This is the contact information that is added into the sidebar div. Change these
 
 /*foo*/
 
-let organizerData = [{
-    name: 'Anastasia Bezerianos',
-    weblink: 'https://www.lri.fr/~anab/',
-    affil: 'Université Paris-Saclay',
-    blurb: `is an assistant professor at Université Paris-Saclay, part of the LRI HCC (ex InSitu) and the ILDA research team.
-        Her interests lie in novel interaction and visualization design and evaluation, especially on large high resolution displays.`
+let organizerData = [
+  {
+    name: "Sandra Bae",
+    weblink: "https://sandrabae.github.io/",
+    affil: "University of Arizona",
+    blurb: `is an assistant professor at the University of Arizona.
+        Her main research focus is exploring how tangible interactions can help people understand complex ideas when analyzing data in its physical form.`,
   },
   {
-    name: 'Michael Correll',
-    weblink: 'https://correll.io/',
-    affil: 'Northeastern University',
-    blurb: `is a researcher professor at Northeastern University. His research interests include the ethical, accurate, and responsible communication of data, as well as graphical perception, statistical graphics, and uncertainty visualization.`
+    name: "Jürgen Bernard",
+    weblink: "https://juergen-bernard.info",
+    affil: "University of Zurich",
+    blurb: `is an assistant professor at the University of Zurich and head of the Interactive Visual Data Analysis. His research focus is on visual analytics, human-centered machine learning, and artificial intelligence.`,
   },
   {
-    name: 'Kyle Hall',
-    weblink: 'https://kylewmhall.com',
-    affil: 'TD Bank',
-    blurb: `is a researcher at TD Bank.  He holds an interdisciplinary PhD from the University of Calgary.
-        His research interests include transdisciplinary visualization design, design methodology, and techniques bridging information visualization
-        and scientific visualization.`
+    name: "Michael Correll",
+    weblink: "https://correll.io/",
+    affil: "Northeastern University",
+    blurb: `is a researcher professor at Northeastern University. His research interests include the ethical, accurate, and responsible communication of data, as well as graphical perception, statistical graphics, and uncertainty visualization.`,
   },
   {
-    name: 'Jürgen Bernard',
-    weblink: 'https://juergen-bernard.info',
-    affil: 'University of Zurich',
-    blurb: `is an assistant professor at the University of Zurich and head of the Interactive Visual Data Analysis. His research focus is on visual analytics, human-centered machine learning, and artificial intelligence.`
+    name: "Mai Elshehaly",
+    weblink: "https://invisai.com/mai/",
+    affil: "City, University of London",
+    blurb: `is a Senior Lecturer in Visualisation at City, University of London. She holds a Ph.D. and M.Sc. in Computer Science from the Center for Human-Computer Interaction at Virginia Tech. Before her current appointment, she worked at the Universities of Leeds and Bradford and was a NSF-funded postdoctoral researcher at the University of Maryland, Baltimore County.`,
   },
   {
-    name: 'Dan Keefe',
-    weblink: 'https://www.danielkeefe.net/',
-    affil: 'University of Minnesota',
-    blurb: `is a Distinguished University Teaching Professor and Professor in the Department of Computer Science & Engineering at the University of Minnesota.  He is also an artist.  Dan's research centers on spatial human-data interaction in mixed reality environments, art+science collaborations, and, recently, community partnerships and digital design for revitalizing Indigenous culture and knowledge systems.`
+    name: "Takanori Fujiwara",
+    weblink: "https://takanori-fujiwara.github.io/",
+    affil: "University of Arizona",
+    blurb: `is an assistant professor at the University of Arizona.
+        His research interests span network science, machine learning, and visual analytics, with a particular focus on developing interactive dimensionality reduction methods and exploring the use of 3D spaces and interfaces for high-dimensional data analysis.`,
   },
   {
-    name: 'Mai Elshehaly', 
-    weblink: 'https://invisai.com/mai/',
-    affil: 'City, University of London',
-    blurb: `is a Lecturer in Visualisation at City, University of London. She holds a Ph.D. and M.Sc. in Computer Science from the Center for Human-Computer Interaction at Virginia Tech. Before her current appointment, she worked at the Universities of Leeds and Bradford and was a NSF-funded postdoctoral researcher at the University of Maryland, Baltimore County.`
+    name: "Dan Keefe",
+    weblink: "https://www.danielkeefe.net/",
+    affil: "University of Minnesota",
+    blurb: `is a Distinguished University Teaching Professor and Professor in the Department of Computer Science & Engineering at the University of Minnesota.  He is also an artist.  Dan's research centers on spatial human-data interaction in mixed reality environments, art+science collaborations, and, recently, community partnerships and digital design for revitalizing Indigenous culture and knowledge systems.`,
   },
-  {name: 'Mahsan Nourani',
-  weblink: 'https://mahsan.page',
-  affil: 'Northeastern University',
-  blurb: `is an assistant research professor at Northeastern University. Her research focuses on human-centered AI/XAI, AI ethics, visual analytics, and human-AI collaborative decision-making. She holds a PhD in computer science from University of Florida.`
-}
+  {
+    name: "Mahsan Nourani",
+    weblink: "https://mahsan.page",
+    affil: "Northeastern University",
+    blurb: `is an assistant research professor at Northeastern University. Her research focuses on human-centered AI/XAI, AI ethics, visual analytics, and human-AI collaborative decision-making. She holds a PhD in computer science from University of Florida.`,
+  },
 ];
 
-let publicityData = [{
-  name: 'Sandra Bae',
-  weblink: 'https://sandrabae.github.io/',
-  affil: 'CU Boulder',
-  blurb: `is a PhD student at the University of Colorado Boulder. Her main research focus is exploring how tangible interactions can help people understand complex ideas when analyzing data in its physical form.`
-}];
+let publicityData = [
+  {
+    name: "Arran Zeyu Wang",
+    weblink: "https://arranzeyuwang.github.io/",
+    affil: "UNC Chapel Hill",
+    blurb: `is a PhD student at the University of North Carolina at Chapel Hill. His main research focus is exploring how people understand data from visualizations to build accessible, intelligent, and empirically grounded tools for easier exploratory data analysis and decision-making.`,
+  },
+];
 
 let socialMedia = [{
     name: 'Twitter',
