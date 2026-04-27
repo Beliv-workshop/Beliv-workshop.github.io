@@ -37,7 +37,7 @@ Code that adds data to div
 
 let dateWrapper = $("#side-dates");
 
-dateWrapper.append("<h1>Preliminary Timeline</h1>");
+dateWrapper.append("<h1>Important Dates</h1>");
 makeEvent(dateData, dateWrapper);
 
 function makeEvent(data, div) {
