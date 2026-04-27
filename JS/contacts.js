@@ -80,10 +80,10 @@ Code that adds data to div
 
 let wrapper = $("#side-contact");
 
-wrapper.append("<h1>Organizers</h1>");
+wrapper.append("<h1>Workshop Organizers</h1>");
 makeContact(organizerData, wrapper);
 
-wrapper.append("<h1>Publicity Chair</h1>");
+wrapper.append("<h1>Social Media Chair</h1>");
 makeContact(publicityData, wrapper);
 
 // wrapper.append("<h1>Local Chair</h1>");
