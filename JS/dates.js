@@ -1,7 +1,7 @@
 let dateData = [
   {
     event: "<b>Deadline for submissions</b>",
-    date: "<del>June 29</del><b>July 6</b>, 2026 (AoE)",
+    date: "<del>June 29</del> <b>July 6</b>, 2026 (AoE)",
   },
   // {
   //   event: '<b>Papers Reviews Assigned</b>',
